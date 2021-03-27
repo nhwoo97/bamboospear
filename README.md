@@ -1,2 +1,2 @@
 # bamboospear
-# let's break the bamboo ceiling with us
+# let's break the bamboo ceiling together
