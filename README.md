@@ -1,6 +1,8 @@
 # bamboospear
-<<<<<<< HEAD
-# let's break the bamboo ceiling together
-=======
- let's break the bamboo ceiling with us
->>>>>>> 1461fe6f53db0e943b538f443f1e7165a737ffae
+
+let's break the bamboo ceiling together
+1. Explaination of the term Bamboo Ceiling
+2. What you can do to improve
+3. Resources?
+4. Book recommendations?
+5. The purpose
