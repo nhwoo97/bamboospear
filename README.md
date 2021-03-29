@@ -1,6 +1,6 @@
 # bamboospear
 
-let's break the bamboo ceiling together
+let's break the bamboo ceiling together!
 1. Explaination of the term Bamboo Ceiling
 2. What you can do to improve
 3. Resources?
