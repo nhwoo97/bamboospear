@@ -43,17 +43,26 @@ table {
 } */
 
 body {
-    color: green;
+  color: green;
 }
 
 footer {
-    color: antiquewhite;
-    text-align: center;
-    background-color: black;
-    font-family: Arial, Helvetica, sans-serif;
-    padding: 5%;
+  color: antiquewhite;
+  text-align: center;
+  background-color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 5%;
+}
+
+.section3 {
+  text-align: center;
+}
+
+.section3 .videos {
+  display: flex;
+  justify-content: space-evenly;
 }
 
 .section4 {
-    text-align: center;
+  text-align: center;
 }
